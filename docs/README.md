@@ -44,7 +44,6 @@ The system combines:
 - Repository CRUD
 - Folder CRUD
 - File Upload System
-- Notes CRUD
 - Repository Search
 - AI File Summarizer
 
