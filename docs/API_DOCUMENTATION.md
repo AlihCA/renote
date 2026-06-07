@@ -181,14 +181,6 @@ POST /summaries/file/:fileId
 
 ---
 
-## Note Summary
-
-```http
-POST /summaries/note/:noteId
-```
-
----
-
 ## Folder Summary
 
 ```http
