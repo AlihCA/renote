@@ -90,17 +90,14 @@ feature/notes-ai
 ## Responsibilities
 
 ### Frontend
-- Notes Editor
 - Summary UI
 - Summary History
 
 ### Backend
-- Notes CRUD APIs
 - OpenAI Integration
 - Summary APIs
 
 ### Database
-- notes table
 - summaries table
 
 ---
