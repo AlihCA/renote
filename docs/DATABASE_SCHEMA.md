@@ -75,22 +75,6 @@ Stores uploaded file information.
 
 ---
 
-## notes
-
-Stores text notes.
-
-### Columns
-- id
-- repository_id
-- folder_id
-- user_id
-- title
-- content
-- created_at
-- updated_at
-
----
-
 ## summaries
 
 Stores AI-generated summaries.
