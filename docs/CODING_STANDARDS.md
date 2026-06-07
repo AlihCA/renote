@@ -102,7 +102,6 @@ style: updated dashboard layout
 - Minimal design
 
 ## Typography
-- Poppins
 - Inter
 
 ## Color Palette
