@@ -153,36 +153,10 @@ DELETE /files/:id
 
 ---
 
-# Notes
-
-## Create Note
-
-```http
-POST /repositories/:repoId/notes
-```
-
----
-
 ## Get Notes
 
 ```http
 GET /repositories/:repoId/notes
-```
-
----
-
-## Update Note
-
-```http
-PUT /notes/:id
-```
-
----
-
-## Delete Note
-
-```http
-DELETE /notes/:id
 ```
 
 ---
