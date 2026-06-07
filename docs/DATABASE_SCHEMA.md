@@ -99,8 +99,7 @@ Stores AI-generated summaries.
 users
  └── repositories
       └── folders
-           ├── files
-           └── notes
+           └──  files
 
 files
  └── summaries
