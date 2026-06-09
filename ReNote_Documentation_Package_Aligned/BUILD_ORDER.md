@@ -535,7 +535,7 @@ Repository views are MVP and should be connected after repository backend.
 
 ---
 
-## Recommended MVP Completion Order
+## MVP Completion Order
 
 ```text
 1. Authentication and user sync
