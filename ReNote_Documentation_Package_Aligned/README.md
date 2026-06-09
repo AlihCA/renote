@@ -46,7 +46,7 @@ These features are planned after the MVP is stable.
 ### Advanced / Future
 These features are not required for the current build and should be presented as future enhancements.
 
-## Final Team Split
+## Team Tasks
 
 | Owner | Feature Area | Responsibilities |
 | --- | --- | --- |
